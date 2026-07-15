@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Productivity Suite",
+  "description": "An AI-powered workspace to summarize meeting minutes, extract step-by-step reasoning for action items, and draft ready-to-send business emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
